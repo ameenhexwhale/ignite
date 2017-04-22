@@ -6,6 +6,12 @@ To use Ignite, you will need to install React Native. The best way to install Re
 
 You will also need to have Node 7.6+ installed. We recommend using [n](https://github.com/tj/n) to manage node versions. If you already use [nvm](https://github.com/creationix/nvm) and would like to switch, follow [these steps](./nvm-to-n.md).
 
+Install Yarn 
+
+```
+npm install yarn --global
+```
+
 ## Installing Ignite 2.0
 
 
